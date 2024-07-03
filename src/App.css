@@ -96,6 +96,9 @@ nav .btnsearch svg:hover{
   animation: fadeIn3 0.5s;
   z-index: 99;
 }
+.search svg{
+  color:black;
+}
 .background1{
   width: 100%;
   height: 100%;
@@ -128,6 +131,9 @@ nav .btnsearch svg:hover{
   visibility: visible;
   -webkit-animation: fadeIn5 2s;
   animation: fadeIn5 2s;
+}
+.shop svg{
+  color:black;
 }
 @-webkit-keyframes fadeIn5 {
   from {opacity: 0;} 
