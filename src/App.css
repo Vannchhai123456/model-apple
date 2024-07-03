@@ -29,6 +29,9 @@ nav .btnbar{
   border: none;
   display: none;
 }
+nav svg{
+  color:black;
+}
 .menu{
   margin-left: 230px;
   /* background-color: red; */
@@ -54,6 +57,7 @@ nav .btnsearch svg{
   width: 35px;
   height: 35px;
   opacity: 0.6;
+  color:black;
 }
 nav .btnsearch svg:hover{
   opacity: 0.4;
